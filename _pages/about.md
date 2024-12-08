@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Samsung Research America</a>. Mountain View, CA, USA
+subtitle: Samsung Research America, Mountain View, CA, USA
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Ching-Hua Lee and I study a number of subjects in machine learning and signal processing.
+# My name is Ching-Hua Lee and I study a number of subjects in machine learning and signal processing.
 
 - I am a Senior Machine Learning Researcher at [Samsung Research America](https://sra.samsung.com/).
 - I completed my Ph.D. in Electrical and Computer Engineering at [UC San Diego](https://www.ece.ucsd.edu/) in 2020 under the supervision of [Prof. Bhaskar D. Rao](https://jacobsschool.ucsd.edu/node/3416), an Ericsson Endowed Chair and Distinguished Professor, and [Dr. Harinath Garudadri](https://qi.ucsd.edu/about/leadership/harinath-garudadri/).
