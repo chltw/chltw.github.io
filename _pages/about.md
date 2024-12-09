@@ -6,7 +6,7 @@ subtitle: Samsung Research America, Mountain View, CA, USA
 
 profile:
   align: right
-  image: prof_pic_old3.jpg
+  image: prof_pic_3.jpg
   image_circular: true # crops the image to make it circular
   # more_info: >
   #  <p>555 your office number</p>
