@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order.
+description: publications by categories in reversed chronological order. type any keywords (e.g., conference names, research topics, ...) to filter relevant papers.
 nav: true
 nav_order: 2
 ---
