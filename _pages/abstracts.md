@@ -15,6 +15,6 @@ nav_order: 6
 
 - **''A wearable platform for hearing aids research,''** Louis Pisha, Sean Hamilton,  Dhiman Sengupta, <ins>Ching-Hua Lee</ins>, Krishna Chaithanya Vastare, Sergio Luna, Tamara Zubatiy, Cagri Yalcin, Alex Grant, Mark Stambaugh, Arthur Boothroyd, Ganz Chockalingam, Rajesh Gupta, Bhaskar D. Rao, and Harinath Garudadri, *In 10th International Hearing Aid Research Conference (IHCON),* 2018.
 
-- **''Open Speech Platform tools: A realtime master hearing aid software,''** Harinath Garudadri, <ins>Ching-Hua Lee</ins>, Swaroop Gadiyaram, Justyn Bell, Bhaskr D. Rao, and Arthur Boothroyd, *In 44th Annual Scientific and Technology Conference of American Auditory Society (AAS),* 2017.
+- **''Open Speech Platform tools: A realtime master hearing aid software,''** Harinath Garudadri, <ins>Ching-Hua Lee</ins>, Swaroop Gadiyaram, Justyn Bell, Bhaskar D. Rao, and Arthur Boothroyd, *In 44th Annual Scientific and Technology Conference of American Auditory Society (AAS),* 2017.
 
 - **''Speech quality and stable gain trade-offs in adaptive feedback cancellation for hearing aids,''** <ins>Ching-Hua Lee</ins>, James M. Kates, Bhaskar D. Rao, and Harinath Garudadri, *In 9th International Hearing Aid Research Conference (IHCON),* 2016
