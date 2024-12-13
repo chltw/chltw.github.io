@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /abstracts/
-title: abstracts
+title: Abstracts
 description: Abstracts for conference presentation.
 nav: true
 nav_order: 6
