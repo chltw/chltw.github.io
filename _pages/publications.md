@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: publications by categories in reversed chronological order. type any keywords (e.g., conference names, research topics) to filter relevant papers.
+title: Publications
+description: Publications by categories in reversed chronological order. Type any keywords (e.g., conference names, research topics) to filter relevant papers.
 nav: true
 nav_order: 2
 ---
