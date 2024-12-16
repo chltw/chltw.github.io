@@ -4,7 +4,7 @@ permalink: /patents/
 title: Patents
 description: Patents and patent applications.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 - **''Cross-modal transfer with continuously weighted contrastive loss,''** Rakshith Sharma Srinivasa, Jaejin Cho, Chouchang Yang, Yashas Malur Saidutta, <ins>Ching-Hua Lee</ins>, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/434,691,* 2024. [[html]](https://www.freepatentsonline.com/y2024/0394592.html)
