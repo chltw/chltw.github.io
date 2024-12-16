@@ -4,7 +4,7 @@ permalink: /abstracts/
 title: Abstracts
 description: Abstracts for conference presentation.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 - **''On mitigating acoustic feedback in hearing aids with frequency warping by all-pass network,''** <ins>Ching-Hua Lee</ins>, Kuan-Lin Chen, fred harris, Bhaskar D. Rao, and Harinath Garudadri, *In 178th Meeting of Acoustical Society of America (ASA),* 2019.
