@@ -4,7 +4,7 @@ permalink: /experience/
 title: Experience
 description: Work and research experience.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 # Work Experience
