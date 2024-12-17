@@ -6,11 +6,12 @@ description: Abstracts for conference presentation.
 nav: true
 nav_order: 4
 ---
-<a href="{{ 'https://github.com/alshedivat/al-folio/blob/main/_layouts/bib.liquid' }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
-
-<a href="{{ 'ICASSP_2024_IntraMVDR_Poster.pdf' }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
 
 <a href="{{  entry.poster | prepend: '/assets/pdf/' | 'ICASSP_2024_IntraMVDR_Poster.pdf' }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+
+---
+
+<a href="{{ 'ICASSP_2024_IntraMVDR_Poster.pdf' | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
 
 - **''On mitigating acoustic feedback in hearing aids with frequency warping by all-pass network,''** <ins>Ching-Hua Lee</ins>, Kuan-Lin Chen, fred harris, Bhaskar D. Rao, and Harinath Garudadri, *In 178th Meeting of Acoustical Society of America (ASA),* 2019.
 
