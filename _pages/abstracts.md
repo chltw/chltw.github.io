@@ -9,6 +9,8 @@ nav_order: 4
 
 - **''On mitigating acoustic feedback in hearing aids with frequency warping by all-pass network,''** <ins>Ching-Hua Lee</ins>, Kuan-Lin Chen, fred harris, Bhaskar D. Rao, and Harinath Garudadri, *In 178th Meeting of Acoustical Society of America (ASA),* 2019.
 
+[poster](https://github.com/chltw/chltw.github.io/blob/main/assets/pdf/ICASSP_2024_IntraMVDR_Poster.pdf)
+
 - **''Noise management features of the Open Speech Platform,''** Mingchiao Liang, Kuan-Lin Chen, Wenyu Zhang, <ins>Ching-Hua Lee</ins>, Bhaskar D. Rao, and Harinath Garudadri, *In 178th Meeting of Acoustical Society of America (ASA),* 2019.
 
 - **''Sparsity promoting adaptive beamforming for hearing aids,''** <ins>Ching-Hua Lee</ins>, Gokce Sarar, Bhaskar D. Rao, and Harinath Garudadri, *In 10th International Hearing Aid Research Conference (IHCON),* 2018.
