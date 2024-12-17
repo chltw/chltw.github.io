@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## Work Experience
+### Work Experience
 
 - **[02/2021 - Present]** Senior ML Researcher, Samsung Research America
 - **[06/2019 - 09/2019]** Mentor of ECE Summer Research Internship Program, UC San Diego
@@ -18,15 +18,17 @@ nav_order: 5
 
 ---
 
-## Teaching
+### Teaching
+
 - **[01/2016 - 03/2016]** Teaching assistant of UC San Diego ECE 45 -- Circuits and Systems
 - **[09/2015 - 12/2015]** Teaching assistant of UC San Diego ECE 251C -- Filter Banks and Wavelets
 - **[09/2015 - 12/2015]** Teaching assistant of UC San Diego ECE 161A -- Introduction to Digital Signal Processing
 
 ---
 
-## Reviewer
-### Journals
+### Reviewer
+
+#### Journals
 - IEEE Trans. on Circuits and Systems II: Express Briefs (IEEE TCAS-II)
 - Journal of the Franklin Institute
 - IEEE Signal Processing Letters (IEEE SPL)
@@ -35,7 +37,8 @@ nav_order: 5
 - IEEE/ACM Trans. on Audio, Speech, and Language Processing (IEEE/ACM TASLP)
 - Quantitative Imaging in Medicine and Surgery
 - International Journal of Audiology
-### Conferences
+
+#### Conferences
 - International Conference on Learning Representations (ICLR) 2025
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021, 2022, 2023, 2024, 2025
 - Annual Conference of the International Speech Communication Association (Interspeech) 2024
@@ -44,7 +47,8 @@ nav_order: 5
 
 ---
 
-## Honors & Awards
+### Honors & Awards
+
 - **[06/2021]** First Prize of Innovation Challenge, Samsung Research America
 - **[05/2020]** NSF Student Travel Grant to ICASSP 2020, National Science Foundation
 - **[2016 - 2020]** Graduate Research Assistantship, Qualcomm Institute, UC San Diego
