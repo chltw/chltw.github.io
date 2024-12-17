@@ -6,7 +6,7 @@ description: Abstracts for conference presentation.
 nav: true
 nav_order: 4
 ---
-<a href="{{ '/assets/pdf/ICASSP_2024_IntraMVDR_Poster.pdf' }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+<a href="{{ 'https://github.com/alshedivat/al-folio/blob/main/_layouts/bib.liquid' }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
 
 <a href="{{ 'ICASSP_2024_IntraMVDR_Poster.pdf' }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
 
