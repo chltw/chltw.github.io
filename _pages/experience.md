@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-### Work Experience
+### Work experience
 
 - **[02/2021 - Present]** Senior ML Researcher, Samsung Research America
 - **[06/2019 - 09/2019]** Mentor of ECE Summer Research Internship Program, UC San Diego
