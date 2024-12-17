@@ -56,4 +56,4 @@ nav_order: 5
 - **[06/2013]** First Prize of Undergraduate Outstanding Reports of Special Project, National Taiwan University
   - Ranked 1 out of 500 excellent undergraduate projects in the EE department
 - **[09/2012]** Presidential Award, Department of EE, National Taiwan University 
-  - Awarded to the top 5\% of students in terms of final GPA (Rank: 1/237)
+  - Awarded to the top 5% of students in terms of final GPA (Rank: 1/237)
