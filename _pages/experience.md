@@ -2,7 +2,7 @@
 layout: page
 permalink: /experience/
 title: Experience
-description: Work and research experience.
+description: Work and academic experience.
 nav: true
 nav_order: 5
 ---
@@ -15,14 +15,6 @@ nav_order: 5
 - **[07/2016 - 12/2020]** Graduate Student Researcher, Department of ECE, UC San Diego
 - **[08/2013 - 07/2014 ]** Platoon Leader, The Republic of China Army
 - **[04/2013 - 06/2013]** Educational Project Designer, Department of EE, National Taiwan University 
-
----
-
-### Teaching
-
-- **[01/2016 - 03/2016]** Teaching assistant of UC San Diego ECE 45 -- Circuits and Systems
-- **[09/2015 - 12/2015]** Teaching assistant of UC San Diego ECE 251C -- Filter Banks and Wavelets
-- **[09/2015 - 12/2015]** Teaching assistant of UC San Diego ECE 161A -- Introduction to Digital Signal Processing
 
 ---
 
@@ -44,6 +36,14 @@ nav_order: 5
 - Annual Conference of the International Speech Communication Association (Interspeech) 2024
 - The International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2020, 2021, 2022, 2024
+
+---
+
+### Teaching
+
+- **[01/2016 - 03/2016]** Teaching assistant of UC San Diego ECE 45 -- Circuits and Systems
+- **[09/2015 - 12/2015]** Teaching assistant of UC San Diego ECE 251C -- Filter Banks and Wavelets
+- **[09/2015 - 12/2015]** Teaching assistant of UC San Diego ECE 161A -- Introduction to Digital Signal Processing
 
 ---
 
