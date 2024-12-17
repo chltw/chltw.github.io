@@ -9,8 +9,6 @@ nav_order: 4
 
 ---
 
-<a href="{{ 'ICASSP_2024_IntraMVDR_Poster.pdf' | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">[Poster]</a>
-
 - **''On mitigating acoustic feedback in hearing aids with frequency warping by all-pass network,''** <ins>Ching-Hua Lee</ins>, Kuan-Lin Chen, fred harris, Bhaskar D. Rao, and Harinath Garudadri, *In 178th Meeting of Acoustical Society of America (ASA),* 2019.
 
 - **''Noise management features of the Open Speech Platform,''** Mingchiao Liang, Kuan-Lin Chen, Wenyu Zhang, <ins>Ching-Hua Lee</ins>, Bhaskar D. Rao, and Harinath Garudadri, *In 178th Meeting of Acoustical Society of America (ASA),* 2019.
