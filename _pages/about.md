@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI Center-Mountain View, Samsung Research, Mountain View, CA, USA
+subtitle: Samsung AI Center-Mountain View
 
 profile:
   align: right
