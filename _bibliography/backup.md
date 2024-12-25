@@ -1,0 +1,339 @@
+---
+---
+
+// 2024
+
+@inproceedings{lee2024mvdr,
+  abbr={ICASSP},
+  title={An MVDR-embedded U-Net beamformer for effective and robust multichannel speech enhancement},
+  author={Lee, Ching-Hua and Patel, Kashyap and Yang, Chouchang and Shen, Yilin and Jin, Hongxia},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={8541--8545},
+  year={2024},
+  organization={IEEE},
+  selected={true},
+  preview={mvdr_embedded_unet.PNG},
+  html={https://ieeexplore.ieee.org/document/10448366},
+  poster={ICASSP_2024_IntraMVDR_Poster.pdf}
+}
+
+@inproceedings{lee2024leveraging,
+  abbr={ICASSP},
+  title={Leveraging self-supervised speech representations for domain adaptation in speech enhancement},
+  author={Lee, Ching-Hua and Yang, Chouchang and Srinivasa, Rakshith Sharma and Saidutta, Yashas Malur and Cho, Jaejin and Shen, Yilin and Jin, Hongxia},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={10831--10835},
+  year={2024},
+  organization={IEEE},
+  selected={true},
+  preview={ssra.PNG},
+  html={https://ieeexplore.ieee.org/abstract/document/10447573},
+  poster={ICASSP_2024_SSRA_Poster.pdf}
+}
+
+@inproceedings{cho2024zero,
+  abbr={ICASSP},
+  title={Zero-Shot intent classification using a semantic similarity aware contrastive loss and large language model},
+  author={Cho, Jaejin and Srinivasa, Rakshith Sharma and Lee, Ching-Hua and Saidutta, Yashas Malur and Yang, Chouchang and Shen, Yilin and Jin, Hongxia},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={10776--10780},
+  year={2024},
+  organization={IEEE},
+  preview={intent_classifier.PNG},
+  html={https://ieeexplore.ieee.org/document/10446276}
+}
+
+@inproceedings{suhas2024end,
+  abbr={ICASSP},
+  title={End-to-end personalized cuff-less blood pressure monitoring using ECG and PPG signals},
+  author={Suhas, BN and Srinivasa, Rakshith Sharma and Saidutta, Yashas Malur and Cho, Jaejin and Lee, Ching-Hua and Yang, Chouchang and Shen, Yilin and Jin, Hongxia},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={2101--2105},
+  year={2024},
+  organization={IEEE},
+  preview={ecg_ppg.PNG},
+  html={https://ieeexplore.ieee.org/document/10445970}
+}
+
+// 2023
+
+@inproceedings{srinivasa2023cwcl,
+  abbr={NeurIPS},
+  title={CWCL: Cross-modal transfer with continuously weighted contrastive loss},
+  author={Srinivasa, Rakshith Sharma and Cho, Jaejin and Yang, Chouchang and Saidutta, Yashas Malur and Lee, Ching-Hua and Shen, Yilin and Jin, Hongxia},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  volume={36},
+  year={2023},
+  selected={true},
+  preview={cwcl.PNG},
+  html={https://proceedings.neurips.cc/paper_files/paper/2023/hash/f7b77476d89d5fb58aeb77691d2f40f5-Abstract-Conference.html}
+}
+
+@inproceedings{yang2023robust,
+  abbr={Interspeech},
+  title={Robust keyword spotting for noisy environments by leveraging speech enhancement and speech presence probability},
+  author={Yang, Chouchang and Saidutta, Yashas Malur and Srinivasa, Rakshith Sharma and Lee, Ching-Hua and Shen, Yilin and Jin, Hongxia},
+  booktitle={Annual Conference of the International Speech Communication Association (Interspeech)},
+  pages={1638--1642},
+  year={2023},
+  organization={ISCA},
+  preview={kws_se_spp.PNG},
+  html={https://www.isca-archive.org/interspeech_2023/yang23t_interspeech.html}
+}
+
+@inproceedings{lee2023improved,
+  abbr={ICASSP},
+  title={Improved mask-based neural beamforming for multichannel speech enhancement by snapshot matching masking},
+  author={Lee, Ching-Hua and Yang, Chouchang and Shen, Yilin and Jin, Hongxia},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE},
+  preview={smm.PNG},
+  html={https://ieeexplore.ieee.org/document/10096213},
+  slides={ICASSP_2023_SMM_slides_for_video.pdf},
+  poster={ICASSP_2023_SMM_Poster.pdf}
+}
+
+@inproceedings{chen2023dnn,
+  abbr={ICASSP},
+  title={A DNN based normalized time-frequency weighted criterion for robust wideband DoA estimation},
+  author={Chen, Kuan-Lin and Lee, Ching-Hua and Rao, Bhaskar D. and Garudadri, Harinath},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE},
+  preview={doa_dnn.PNG},
+  html={https://ieeexplore.ieee.org/document/10096809},
+  code={https://github.com/kjason/DnnNormTimeFreq4DoA},
+  slides={ICASSP_2023_DnnNormTF4DoA_slides_handout.pdf}
+}
+
+@inproceedings{saidutta2023wake,
+  abbr={ICASSP},
+  title={To wake-up or not to wake-up: Reducing keyword false alarm by successive refinement},
+  author={Saidutta, Yashas Malur and Srinivasa, Rakshith Sharma and Lee, Ching-Hua and Yang, Chouchang and Shen, Yilin and Jin, Hongxia},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE},
+  preview={kws_sr.PNG},
+  html={https://ieeexplore.ieee.org/document/10095428}
+}
+
+// 2021
+
+@inproceedings{chen2021resnests,
+  abbr={NeurIPS},
+  title={ResNEsts and DenseNEsts: Block-based DNN models with improved representation guarantees},
+  author={Chen, Kuan-Lin and Lee, Ching-Hua and Garudadri, Harinath and Rao, Bhaskar D.},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  volume={34},
+  pages={3413--3424},
+  year={2021},
+  selected={true},
+  preview={resnest.PNG},
+  html={https://proceedings.neurips.cc/paper/2021/hash/1bf50aaf147b3b0ddd26a820d2ed394d-Abstract.html},
+  code={https://github.com/kjason/ResNEst},
+  slides={NeurIPS_2021_ResNEst_Slides.pdf},
+  poster={NeurIPS_2021_ResNEst_Poster.pdf}
+}
+
+@inproceedings{chen2021jointly,
+  abbr={EUSIPCO},
+  title={Jointly leveraging decorrelation and sparsity for improved feedback cancellation in hearing aids},
+  author={Chen, Kuan-Lin and Lee, Ching-Hua and Rao, Bhaskar D. and Garudadri, Harinath},
+  booktitle={European Signal Processing Conference (EUSIPCO)},
+  pages={121--125},
+  year={2021},
+  organization={IEEE},
+  preview={spnsaf_afc.PNG},
+  html={https://ieeexplore.ieee.org/document/9287330},
+  slides={EUSIPCO_2020_SPNSAF_AFC_slides_handout.pdf}
+}
+
+// 2020
+
+@article{lee2020proportionate,
+  abbr={IEEE/ACM TASLP},
+  title={Proportionate adaptive filtering algorithms derived using an iterative reweighting framework},
+  author={Lee, Ching-Hua and Rao, Bhaskar D. and Garudadri, Harinath},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE/ACM TASLP)},
+  volume={29},
+  pages={171--186},
+  year={2020},
+  publisher={IEEE},
+  selected={true},
+  preview={slms_snlms.PNG},
+  html={https://ieeexplore.ieee.org/document/9261941}
+}
+
+@article{lee2020sparse,
+  abbr={IEEE SPL},
+  title={A sparse conjugate gradient adaptive filter},
+  author={Lee, Ching-Hua and Rao, Bhaskar D. and Garudadri, Harinath},
+  journal={IEEE Signal Processing Letters (IEEE SPL)},
+  volume={27},
+  pages={1000--1004},
+  year={2020},
+  publisher={IEEE},
+  selected={true},
+  preview={scg.PNG},
+  html={https://ieeexplore.ieee.org/document/9109721}
+}
+
+@inproceedings{lee2020ssgd,
+  abbr={ICASSP},
+  title={SSGD: Sparsity-promoting stochastic gradient descent algorithm for unbiased DNN pruning},
+  author={Lee, Ching-Hua and Fedorov, Igor and Rao, Bhaskar D. and Garudadri, Harinath},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={5410--5414},
+  year={2020},
+  organization={IEEE},
+  preview={ssgd.PNG},
+  html={https://ieeexplore.ieee.org/document/9054436},
+  slides={ICASSP_2020_SSGD_slides.pdf}
+}
+
+// 2019
+
+@inproceedings{lee2019mitigating,
+  abbr={Interspeech},
+  title={On mitigating acoustic feedback in hearing aids with frequency warping by all-pass networks},
+  author={Lee, Ching-Hua and Chen, Kuan-Lin and haris, fred and Rao, Bhaskar D. and Garudadri, Harinath},
+  booktitle={Annual Conference of the International Speech Communication Association (Interspeech)},
+  pages={4245--4249},
+  year={2019},
+  organization={ISCA},
+  selected={true},
+  preview={freping.PNG},
+  html={https://www.isca-archive.org/interspeech_2019/lee19e_interspeech.html},
+  poster={Interspeech_2019_Poster.pdf}
+}
+
+@inproceedings{lee2019proportionate,
+  abbr={ACSSC},
+  title={Proportionate adaptive filters based on minimizing diversity measures for promoting sparsity},
+  author={Lee, Ching-Hua and Rao, Bhaskar D. and Garudadri, Harinath},
+  booktitle={Asilomar Conference on Signals, Systems, and Computers (ACSSC)},
+  pages={769--773},
+  year={2019},
+  organization={IEEE},
+  preview={snlms.PNG},
+  html={https://ieeexplore.ieee.org/abstract/document/9048716?casa_token=A29xO5KULgsAAAAA:uVn8ftLxHqEUGtbpbivgqkcZU4gVJWwYT7IQDyf4cq4AO-X09uBOB5jSGKav6euwW4q7I-qdu-2n},
+  poster={Asilomar_2019_Poster.pdf}
+}
+
+@inproceedings{chen2019generalized,
+  abbr={ACSSC},
+  title={A generalized proportionate-type normalized subband adaptive filter},
+  author={Chen, Kuan-Lin and Lee, Ching-Hua and Rao, Bhaskar D. and Garudadri, Harinath},
+  booktitle={Asilomar Conference on Signals, Systems, and Computers (ACSSC)},
+  pages={749--753},
+  year={2019},
+  organization={IEEE},
+  preview={gptnsaf.PNG},
+  html={https://ieeexplore.ieee.org/document/9048906},
+  poster={Asilomar_2019_GPtNSAF_Poster.pdf}
+}
+
+@article{pisha2019wearable,
+  abbr={IEEE Access},
+  title={A wearable, extensible, open-source platform for hearing healthcare research},
+  author={Pisha, Louis and Warchall, Julian and Zubatiy, Tamara and Hamilton, Sean and Lee, Ching-Hua and Chockalingam, Ganz and Mercier, Patrick P. and Gupta, Rajesh and Rao, Bhaskar D. and Garudadri, Harinath},
+  journal={IEEE Access},
+  volume={7},
+  pages={162083--162101},
+  year={2019},
+  publisher={IEEE},
+  preview={osp.PNG},
+  html={https://ieeexplore.ieee.org/document/8890721}
+}
+
+// 2018
+
+@inproceedings{lee2018bone,
+  abbr={Interspeech},
+  title={Bone-conduction sensor assisted noise estimation for improved speech enhancement},
+  author={Lee, Ching-Hua and Rao, Bhaskar D. and Garudadri, Harinath},
+  booktitle={Annual Conference of the International Speech Communication Association (Interspeech)},
+  volume={2018},
+  pages={1180},
+  year={2018},
+  organization={ISCA},
+  selected={true},
+  preview={bc_se.PNG},
+  html={https://www.isca-archive.org/interspeech_2018/lee18_interspeech.html},
+  poster={Interspeech_2018_Poster.pdf}
+}
+
+@inproceedings{pisha2018wearable,
+  abbr={ACSSC},
+  title={A wearable platform for research in augmented hearing},
+  author={Pisha, Louis and Hamilton, Sean and Sengupta, Dhiman and Lee, Ching-Hua and Vastare, Krishna Chaithanya and Zubatiy, Tamara and Luna, Sergio and Yalcin, Cagri and Grant, Alex and Gupta, Rajesh and Chockalingam, Ganz and Rao, Bhaskar D. and Garudadri, Harinath},
+  booktitle={Asilomar Conference on Signals, Systems, and Computers (ACSSC)},
+  pages={223--227},
+  year={2018},
+  organization={IEEE},
+  preview={mha.PNG},
+  html={https://ieeexplore.ieee.org/document/8645557},
+  poster={Asilomar_2018_Poster.pdf}
+}
+
+// 2017
+
+@article{lee2017speech,
+  abbr={JASA-EL},
+  title={Speech quality and stable gain trade-offs in adaptive feedback cancellation for hearing aids},
+  author={Lee, Ching-Hua and Kates, James M. and Rao, Bhaskar D. and Garudadri, Harinath},
+  journal={The Journal of the Acoustical Society of America - Express Letters (JASA-EL)},
+  volume={142},
+  number={4},
+  pages={EL388--EL394},
+  year={2017},
+  publisher={Acoustical Society of America},
+  preview={afc_hasqi.PNG},
+  html={https://pubs.aip.org/asa/jasa/article/142/4/EL388/853325/Speech-quality-and-stable-gain-trade-offs-in}
+}
+
+@inproceedings{lee2017sparsity,
+  abbr={EUSIPCO},
+  title={Sparsity promoting LMS for adaptive feedback cancellation},
+  author={Lee, Ching-Hua and Rao, Bhaskar D. and Garudadri, Harinath},
+  booktitle={European Signal Processing Conference (EUSIPCO)},
+  pages={226--230},
+  year={2017},
+  organization={IEEE},
+  preview={slms_afc.PNG},
+  html={https://ieeexplore.ieee.org/document/8081202},
+  slides={EUSIPCO_2017_Slides.pdf}
+}
+
+@inproceedings{garudadri2017realtime,
+  abbr={ACSSC},
+  title={A realtime, open-source speech-processing platform for research in hearing loss compensation},
+  author={Garudadri, Harinath and Boothroyd, Arthur and Lee, Ching-Hua and Gadiyaram, Swaroop and Bell, Justyn and Sengupta, Dhiman and Hamilton, Sean and Vastare, Krishna Chaithanya and Gupta, Rajesh and Rao, Bhaskar D.},
+  booktitle={Asilomar Conference on Signals, Systems, and Computers (ACSSC)},
+  pages={1900--1904},
+  year={2017},
+  organization={IEEE},
+  preview={osp_setup.PNG}
+  html={https://ieeexplore.ieee.org/document/8335694},
+  slides={ACSSC2017_Slides.pdf}
+}
+
+// 2013
+
+@inproceedings{ding2013noise,
+  abbr={APSIPA ASC},
+  title={Noise removing for time-variant vocal signal by generalized modulation},
+  author={Ding, Jian-Jiun and Lee, Ching-Hua},
+  booktitle={Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)},
+  pages={1--10},
+  year={2013},
+  organization={IEEE},
+  preview={nr_gm.PNG},
+  html={https://ieeexplore.ieee.org/document/6694168},
+  slides={APSIPA_ASC2013_Slides.pdf}
+}
+
