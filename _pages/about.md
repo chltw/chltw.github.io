@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 My name is Ching-Hua Lee and I work on a number of subjects in machine learning and signal processing.
 
-- I currently serve as a Senior Machine Learning Researcher at AI Center-Mountain View within [Samsung Research](https://research.samsung.com/).
+- I currently serve as a Senior Machine Learning Researcher at [Samsung AI Center-Mountain View](https://research.samsung.com/).
 - I completed my Ph.D. in Electrical and Computer Engineering at [UC San Diego](https://www.ece.ucsd.edu/) in 2020 under the supervision of [Prof. Bhaskar D. Rao](https://jacobsschool.ucsd.edu/node/3416), an Ericsson Endowed Chair and Distinguished Professor, and [Dr. Harinath Garudadri](https://qi.ucsd.edu/about/leadership/harinath-garudadri/).
 - I received my B.S. degree from the Department of Electrical Engineering at [National Taiwan University](https://web.ee.ntu.edu.tw/eng/) in 2013.
 
