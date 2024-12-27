@@ -9,7 +9,7 @@ nav_order: 4
 
 ---
 
-- **''On mitigating acoustic feedback in hearing aids with frequency warping by all-pass network,''** <ins>Ching-Hua Lee</ins>, Kuan-Lin Chen, fred harris, Bhaskar D. Rao, and Harinath Garudadri, *In 178th Meeting of Acoustical Society of America (ASA),* 2019. <a href="{{ 'ASA-2019_Slides.pdf' | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">[Slides]</a>
+- **''On mitigating acoustic feedback in hearing aids with frequency warping by all-pass network,''** <ins>Ching-Hua Lee</ins>, Kuan-Lin Chen, fred harris, Bhaskar D. Rao, and Harinath Garudadri, *In 178th Meeting of Acoustical Society of America (ASA),* 2019. [[URL]](https://pubs.aip.org/asa/jasa/article-split/146/4_Supplement/2879/629303/On-mitigating-acoustic-feedback-in-hearing-aids) [SLIDES](https://drive.google.com/file/d/11VO_AmV8RZ427BCBbHZEdAr8vUmDh_TI/view?usp=drivesdk)
 
 - **''Noise management features of the Open Speech Platform,''** Mingchiao Liang, Kuan-Lin Chen, Wenyu Zhang, <ins>Ching-Hua Lee</ins>, Bhaskar D. Rao, and Harinath Garudadri, *In 178th Meeting of Acoustical Society of America (ASA),* 2019. <a href="{{ 'ASA_2019_Poster.pdf' | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">[Poster]</a>
 
