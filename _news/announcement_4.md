@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Samsung AI Center-Mountain View as a Senior Machine Learning Researcher.
+I joined Samsung AI Center - Mountain View as a Senior Machine Learning Researcher.
