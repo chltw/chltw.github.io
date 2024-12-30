@@ -21,12 +21,12 @@ nav_order: 5
 ### Reviewer
 
 #### Journals
-- IEEE Trans. on Circuits and Systems II: Express Briefs (IEEE TCAS-II)
+- IEEE Transactions on Circuits and Systems II: Express Briefs (IEEE TCAS-II)
 - Journal of the Franklin Institute
 - IEEE Signal Processing Letters (IEEE SPL)
 - IEEE Access
 - The Journal of the Acoustical Society of America (JASA)
-- IEEE/ACM Trans. on Audio, Speech, and Language Processing (IEEE/ACM TASLP)
+- IEEE/ACM Transactions on Audio, Speech, and Language Processing (IEEE/ACM TASLP)
 - Quantitative Imaging in Medicine and Surgery
 - International Journal of Audiology
 
