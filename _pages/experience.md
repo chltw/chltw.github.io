@@ -9,7 +9,7 @@ nav_order: 5
 
 ### Work experience
 
-- **[02/2021 - Present]** Senior ML Researcher, Samsung Research America
+- **[02/2021 - Present]** Senior ML Researcher, Samsung AI Center - Mountain View
 - **[06/2019 - 09/2019]** Mentor of ECE Summer Research Internship Program, UC San Diego
 - **[06/2018 - 09/2018]** Interim Engineering Intern, Qualcomm Incorporated
 - **[07/2016 - 12/2020]** Graduate Student Researcher, Department of ECE, UC San Diego
