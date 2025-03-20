@@ -9,7 +9,8 @@ nav_order: 5
 
 ### Work experience
 
-- **[02/2021 - Present]** *Senior ML Researcher*, Samsung AI Center - Mountain View
+- **[03/2025 - Present]** *Staff ML Research Engineer*, Samsung AI Center - Mountain View
+- **[02/2021 - 02/2025]** *Senior ML Researcher*, Samsung AI Center - Mountain View
 - **[06/2019 - 09/2019]** *Mentor of ECE Summer Research Internship Program*, UC San Diego
 - **[06/2018 - 09/2018]** *Interim Engineering Intern*, Qualcomm Incorporated
 - **[07/2016 - 12/2020]** *Graduate Student Researcher*, Department of ECE, UC San Diego
@@ -33,7 +34,7 @@ nav_order: 5
 #### Conferences
 - International Conference on Learning Representations (ICLR) 2025
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021, 2022, 2023, 2024, 2025
-- Annual Conference of the International Speech Communication Association (Interspeech) 2024
+- Annual Conference of the International Speech Communication Association (Interspeech) 2024, 2025
 - The International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
 - IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2020, 2021, 2022, 2024
 
