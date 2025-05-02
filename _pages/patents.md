@@ -7,13 +7,13 @@ nav: true
 nav_order: 3
 ---
 
-- **''Leveraging self-supervised speech representations for domain adaptation in speech enhancement,''** ** <ins>Ching-Hua Lee</ins>, Chou-Chang Yang, Rakshith Sharma Srinivasa, Yashas Malur Saidutta, Jaejin Cho, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/884,978,* 2025 [[URL]](https://patents.google.com/patent/US20250095666A1/en)
+- **''Leveraging self-supervised speech representations for domain adaptation in speech enhancement,''** <ins>Ching-Hua Lee</ins>, Chou-Chang Yang, Rakshith Sharma Srinivasa, Yashas Malur Saidutta, Jaejin Cho, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/884,978,* 2025 [[URL]](https://patents.google.com/patent/US20250095666A1/en)
 
-- **''Method for end-to-end cuff-less blood pressure monitoring using ecg and ppg signals,''** ** BN Suhas, Yashas Malur Saidutta, Rakshith Sharma Srinivasa, Jaejin Cho, <ins>Ching-Hua Lee</ins>, Chou-Chang Yang, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/883,902,* 2025 [[URL]](https://patents.google.com/patent/US20250090033A1/en)
+- **''Method for end-to-end cuff-less blood pressure monitoring using ecg and ppg signals,''** BN Suhas, Yashas Malur Saidutta, Rakshith Sharma Srinivasa, Jaejin Cho, <ins>Ching-Hua Lee</ins>, Chou-Chang Yang, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/883,902,* 2025 [[URL]](https://patents.google.com/patent/US20250090033A1/en)
 
-- **''Zero-shot intent classification using a semantic similarity aware contrastive loss and large language model,''** ** Jaejin Cho, Rakshith Sharma Srinivasa, Chou-Chang Yang, Yashas Malur Saidutta, <ins>Ching-Hua Lee</ins>, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/891,686,* 2025 [[URL]](https://patents.google.com/patent/US20250095638A1/en)
+- **''Zero-shot intent classification using a semantic similarity aware contrastive loss and large language model,''** Jaejin Cho, Rakshith Sharma Srinivasa, Chou-Chang Yang, Yashas Malur Saidutta, <ins>Ching-Hua Lee</ins>, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/891,686,* 2025 [[URL]](https://patents.google.com/patent/US20250095638A1/en)
 
-- **''Speech denoising networks using speech and noise modeling,''** ** Chou-Chang Yang, <ins>Ching-Hua Lee</ins>, Rakshith Sharma Srinivasa, Yashas Malur Saidutta, Yilin Shen, and Hongxia Jin, *United States Patent 18/058,104,* 2025 [[URL]](https://patents.google.com/patent/US12260874B2/en)
+- **''Speech denoising networks using speech and noise modeling,''** Chou-Chang Yang, <ins>Ching-Hua Lee</ins>, Rakshith Sharma Srinivasa, Yashas Malur Saidutta, Yilin Shen, and Hongxia Jin, *United States Patent 18/058,104,* 2025 [[URL]](https://patents.google.com/patent/US12260874B2/en)
   
 - **''Cross-modal transfer with continuously weighted contrastive loss,''** Rakshith Sharma Srinivasa, Jaejin Cho, Chouchang Yang, Yashas Malur Saidutta, <ins>Ching-Hua Lee</ins>, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/434,691,* 2024 [[URL]](https://www.freepatentsonline.com/y2024/0394592.html)
 
