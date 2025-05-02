@@ -32,6 +32,7 @@ nav_order: 5
 - International Journal of Audiology
 
 #### Conferences
+- International Conference on Machine Learning (ICML) 2025
 - International Conference on Learning Representations (ICLR) 2025
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021, 2022, 2023, 2024, 2025
 - Annual Conference of the International Speech Communication Association (Interspeech) 2024, 2025
