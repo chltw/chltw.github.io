@@ -13,6 +13,8 @@ nav_order: 3
 
 - **''Zero-shot intent classification using a semantic similarity aware contrastive loss and large language model,''** Jaejin Cho, Rakshith Sharma Srinivasa, Chou-Chang Yang, Yashas Malur Saidutta, <ins>Ching-Hua Lee</ins>, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/891,686,* 2025 [[URL]](https://patents.google.com/patent/US20250095638A1/en)
 
+- **''SYSTEM AND METHODS FOR LOW-COMPLEXITY DEEP LEARNING NETWORKS WITH AUGMENTED RESIDUAL FEATURES,''** Harinath Garudadri, Kuan-Lin Chen, Bhaskar D. Rao, and <ins>Ching-Hua Lee</ins>, *United States Patent Applications 18/715,983,* 2025 [[URL]](https://patents.google.com/patent/US20250095666A1/en)
+
 - **''Speech denoising networks using speech and noise modeling,''** Chou-Chang Yang, <ins>Ching-Hua Lee</ins>, Rakshith Sharma Srinivasa, Yashas Malur Saidutta, Yilin Shen, and Hongxia Jin, *United States Patent 18/058,104,* 2025 [[URL]](https://patents.google.com/patent/US12260874B2/en)
   
 - **''Cross-modal transfer with continuously weighted contrastive loss,''** Rakshith Sharma Srinivasa, Jaejin Cho, Chouchang Yang, Yashas Malur Saidutta, <ins>Ching-Hua Lee</ins>, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/434,691,* 2024 [[URL]](https://www.freepatentsonline.com/y2024/0394592.html)
