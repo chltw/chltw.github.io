@@ -10,7 +10,7 @@ nav_order: 5
 ### Work experience
 
 - **[03/2025 - Present]** *Staff ML Research Engineer*, Samsung AI Center - Mountain View
-- **[02/2021 - 02/2025]** *Senior ML Researcher*, Samsung AI Center - Mountain View
+- **[02/2021 - 02/2025]** *Senior ML Researcher*, Samsung Research America AI Center
 - **[06/2019 - 09/2019]** *Mentor of ECE Summer Research Internship Program*, UC San Diego
 - **[06/2018 - 09/2018]** *Interim Engineering Intern*, Qualcomm Incorporated
 - **[07/2016 - 12/2020]** *Graduate Student Researcher*, Department of ECE, UC San Diego
@@ -32,6 +32,7 @@ nav_order: 5
 - International Journal of Audiology
 
 #### Conferences
+- Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
 - International Conference on Machine Learning (ICML) 2025
 - International Conference on Learning Representations (ICLR) 2025
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021, 2022, 2023, 2024, 2025
