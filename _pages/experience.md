@@ -9,7 +9,8 @@ nav_order: 5
 
 ### Work experience
 
-- **[03/2025 - Present]** *Staff ML Research Engineer*, Samsung AI Center - Mountain View
+- **[08/2025 - Present]** *ML Research Engineer, Audio R&D*, Apple
+- **[03/2025 - 07/2025]** *Staff ML Research Engineer*, Samsung AI Center - Mountain View
 - **[02/2021 - 02/2025]** *Senior ML Researcher*, Samsung Research America AI Center
 - **[06/2019 - 09/2019]** *Mentor of ECE Summer Research Internship Program*, UC San Diego
 - **[06/2018 - 09/2018]** *Interim Engineering Intern*, Qualcomm Incorporated
