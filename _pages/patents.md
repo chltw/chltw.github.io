@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+- **''Controlled information flow from teacher model to student model for knowledge distillation and transfer,''** Yashas Malur Saidutta, Rakshith Sharma Srinivasa, Jaejin Cho, <ins>Ching-Hua Lee</ins>, Chou-Chang Yang, Yilin Shen, and Hongxia Jin, *United States Patent Applications 19/056,152,* 2025 [[URL]](https://patents.google.com/patent/US20250273084A1/en)
+
 - **''Leveraging self-supervised speech representations for domain adaptation in speech enhancement,''** <ins>Ching-Hua Lee</ins>, Chou-Chang Yang, Rakshith Sharma Srinivasa, Yashas Malur Saidutta, Jaejin Cho, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/884,978,* 2025 [[URL]](https://patents.google.com/patent/US20250095666A1/en)
 
 - **''Method for end-to-end cuff-less blood pressure monitoring using ECG and PPG signals,''** BN Suhas, Yashas Malur Saidutta, Rakshith Sharma Srinivasa, Jaejin Cho, <ins>Ching-Hua Lee</ins>, Chou-Chang Yang, Yilin Shen, and Hongxia Jin, *United States Patent Applications 18/883,902,* 2025 [[URL]](https://patents.google.com/patent/US20250090033A1/en)
